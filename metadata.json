@@ -1,0 +1,5 @@
+{
+  "name": "Danbooruタグ抽出ツール",
+  "description": "Danbooruの投稿URLからタグを抽出し、カテゴリー別に分類するツールです。ユーザーはカテゴリーをフィルタリングし、目的のタグを簡単にコピーして使用することができます。",
+  "requestFramePermissions": []
+}
